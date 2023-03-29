@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!fix_gravity.cpp
+!fix_gravity.h
+!fix_centrifugal.cpp
+!fix_centrifugal.h
+!drawings.jpg
+!README.md
