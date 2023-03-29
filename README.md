@@ -1,5 +1,6 @@
 # DEMPhysics
 This module adds centrifugal force and location-specific application of centrifugal and gravitational forces to LIGGGHTS-PUBLIC
+This code is developed for the scientific article: 
 
 ## Contributing Authors
 MSc. Damla Serper (Aalto Univeristy, Finland)
@@ -7,7 +8,7 @@ Dr. Kevin Hanley (University of Edinburgh, UK)
 
 ## How to use the code:
 - Clone this directory into the LIGGGHTS-PUBLIC src directory on your local computer.
-- Here you can write a .gitignore file that allows you to only stage the required files within your folder.  
+- Here you can use the provided .gitignore file to only stage the required files within your folder.  
 - Copy and move fix_centrifugal.cpp, fix_centrifugal.h, fix_gravity.cpp and fix_gravity.h files from DEMPhysics folder to upper src directory, replacing the original LIGGGHTS-PUBLIC versions.
 - Recompile the LIGGGHTS-PUBLIC.
 - Here are some examples of how to add the centrifugal force and modified gravitational force within LIGGGHTS .in script:
