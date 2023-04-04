@@ -3,8 +3,8 @@ This module adds centrifugal force and location-specific application of centrifu
 This code is developed for the scientific article linked.
 
 ## Contributing Authors
-MSc. Damla Serper (Aalto Univeristy, Finland) '*corresponding author*'
-Dr. Kevin Hanley (University of Edinburgh, UK)
+- MSc. Damla Serper (Aalto Univeristy, Finland) '*corresponding author*'
+- Dr. Kevin Hanley (University of Edinburgh, UK)
 
 ## How to use the code:
 - Clone this directory into the LIGGGHTS-PUBLIC src directory on your local computer.
