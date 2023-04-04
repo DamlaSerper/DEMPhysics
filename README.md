@@ -1,9 +1,9 @@
 # DEMPhysics
 This module adds centrifugal force and location-specific application of centrifugal and gravitational forces to LIGGGHTS-PUBLIC
-This code is developed for the scientific article: 
+This code is developed for the scientific article linked.
 
 ## Contributing Authors
-MSc. Damla Serper (Aalto Univeristy, Finland)
+MSc. Damla Serper (Aalto Univeristy, Finland) '*corresponding author*'
 Dr. Kevin Hanley (University of Edinburgh, UK)
 
 ## How to use the code:
